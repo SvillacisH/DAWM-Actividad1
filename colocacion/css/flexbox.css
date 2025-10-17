@@ -7,3 +7,39 @@ section:nth-child(2n+1) {
 }
 
 /* Flexbox */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+section {
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#datosgenerales {
+  flex-basis: 100%;
+}
+
+#habilidadespersonales,
+#conocimientos {
+  flex: 1 1 calc(50% - 10px);
+}
+
+#trabajosanteriores,
+#habilidadesprogramacion,
+#proyectosanteriores {
+  flex: 1 1 calc(33.3% - 10px);
+}
+
+#idiomas,
+#medioscontacto {
+  flex: 1 1 calc(50% - 10px);
+}
