@@ -1,0 +1,2194 @@
+{
+    "America del Norte": [
+        {
+            "pais": "Estados Unidos",
+            "codigo_iso": "USA",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Nueva York",
+                    "poblacion_estimada": 8804190,
+                    "latitud": 40.7128,
+                    "longitud": -74.0060
+                },
+                {
+                    "nombre": "Los Ángeles",
+                    "poblacion_estimada": 3898747,
+                    "latitud": 34.0522,
+                    "longitud": -118.2437
+                },
+                {
+                    "nombre": "Chicago",
+                    "poblacion_estimada": 2746388,
+                    "latitud": 41.8781,
+                    "longitud": -87.6298
+                },
+                {
+                    "nombre": "Houston",
+                    "poblacion_estimada": 2304580,
+                    "latitud": 29.7604,
+                    "longitud": -95.3698
+                },
+                {
+                    "nombre": "Phoenix",
+                    "poblacion_estimada": 1608139,
+                    "latitud": 33.4484,
+                    "longitud": -112.0740
+                },
+                {
+                    "nombre": "Filadelfia",
+                    "poblacion_estimada": 1603797,
+                    "latitud": 39.9526,
+                    "longitud": -75.1652
+                },
+                {
+                    "nombre": "San Antonio",
+                    "poblacion_estimada": 1547253,
+                    "latitud": 29.4241,
+                    "longitud": -98.4936
+                },
+                {
+                    "nombre": "San Diego",
+                    "poblacion_estimada": 1386932,
+                    "latitud": 32.7157,
+                    "longitud": -117.1611
+                },
+                {
+                    "nombre": "Dallas",
+                    "poblacion_estimada": 1340003,
+                    "latitud": 32.7767,
+                    "longitud": -96.7970
+                },
+                {
+                    "nombre": "San José",
+                    "poblacion_estimada": 1013240,
+                    "latitud": 37.3382,
+                    "longitud": -121.8863
+                }
+            ]
+        },
+        {
+            "pais": "México",
+            "codigo_iso": "MEX",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Ciudad de México",
+                    "poblacion_estimada": 9209944,
+                    "latitud": 19.4326,
+                    "longitud": -99.1332
+                },
+                {
+                    "nombre": "Ecatepec de Morelos",
+                    "poblacion_estimada": 1645352,
+                    "latitud": 19.6012,
+                    "longitud": -99.0305
+                },
+                {
+                    "nombre": "Guadalajara",
+                    "poblacion_estimada": 1385621,
+                    "latitud": 20.6597,
+                    "longitud": -103.3496
+                },
+                {
+                    "nombre": "Puebla",
+                    "poblacion_estimada": 1692181,
+                    "latitud": 19.0438,
+                    "longitud": -98.2017
+                },
+                {
+                    "nombre": "Ciudad Juárez",
+                    "poblacion_estimada": 1501651,
+                    "latitud": 31.7619,
+                    "longitud": -106.4850
+                },
+                {
+                    "nombre": "Tijuana",
+                    "poblacion_estimada": 1810645,
+                    "latitud": 32.5149,
+                    "longitud": -117.0382
+                },
+                {
+                    "nombre": "León",
+                    "poblacion_estimada": 1578620,
+                    "latitud": 21.1250,
+                    "longitud": -101.6833
+                },
+                {
+                    "nombre": "Zapopan",
+                    "poblacion_estimada": 1476491,
+                    "latitud": 20.7250,
+                    "longitud": -103.4172
+                },
+                {
+                    "nombre": "Monterrey",
+                    "poblacion_estimada": 1142952,
+                    "latitud": 25.6866,
+                    "longitud": -100.3161
+                },
+                {
+                    "nombre": "Nezahualcóyotl",
+                    "poblacion_estimada": 1072666,
+                    "latitud": 19.3900,
+                    "longitud": -99.0300
+                }
+            ]
+        },
+        {
+            "pais": "Canadá",
+            "codigo_iso": "CAN",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Toronto",
+                    "poblacion_estimada": 2794356,
+                    "latitud": 43.6532,
+                    "longitud": -79.3832
+                },
+                {
+                    "nombre": "Montreal",
+                    "poblacion_estimada": 1762949,
+                    "latitud": 45.5017,
+                    "longitud": -73.5673
+                },
+                {
+                    "nombre": "Calgary",
+                    "poblacion_estimada": 1306000,
+                    "latitud": 51.0447,
+                    "longitud": -114.0719
+                },
+                {
+                    "nombre": "Ottawa",
+                    "poblacion_estimada": 1017449,
+                    "latitud": 45.4215,
+                    "longitud": -75.6972
+                },
+                {
+                    "nombre": "Edmonton",
+                    "poblacion_estimada": 981280,
+                    "latitud": 53.5461,
+                    "longitud": -113.4938
+                },
+                {
+                    "nombre": "Mississauga",
+                    "poblacion_estimada": 721599,
+                    "latitud": 43.5891,
+                    "longitud": -79.6441
+                },
+                {
+                    "nombre": "Winnipeg",
+                    "poblacion_estimada": 749607,
+                    "latitud": 49.8954,
+                    "longitud": -97.1385
+                },
+                {
+                    "nombre": "Vancouver",
+                    "poblacion_estimada": 675218,
+                    "latitud": 49.2827,
+                    "longitud": -123.1207
+                },
+                {
+                    "nombre": "Hamilton",
+                    "poblacion_estimada": 569353,
+                    "latitud": 43.2557,
+                    "longitud": -79.8711
+                },
+                {
+                    "nombre": "Quebec",
+                    "poblacion_estimada": 549459,
+                    "latitud": 46.8139,
+                    "longitud": -71.2080
+                }
+            ]
+        },
+        {
+            "pais": "Guatemala",
+            "codigo_iso": "GTM",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Ciudad de Guatemala",
+                    "poblacion_estimada": 3312000,
+                    "latitud": 14.6349,
+                    "longitud": -90.5069
+                },
+                {
+                    "nombre": "Mixco",
+                    "poblacion_estimada": 473080,
+                    "latitud": 14.6219,
+                    "longitud": -90.6275
+                },
+                {
+                    "nombre": "Villa Nueva",
+                    "poblacion_estimada": 401942,
+                    "latitud": 14.5372,
+                    "longitud": -90.5847
+                },
+                {
+                    "nombre": "Quetzaltenango",
+                    "poblacion_estimada": 180706,
+                    "latitud": 14.8436,
+                    "longitud": -91.5238
+                },
+                {
+                    "nombre": "San Pedro Carchá",
+                    "poblacion_estimada": 165039,
+                    "latitud": 15.4833,
+                    "longitud": -90.3500
+                },
+                {
+                    "nombre": "San Juan Sacatepéquez",
+                    "poblacion_estimada": 154747,
+                    "latitud": 14.7333,
+                    "longitud": -90.6833
+                },
+                {
+                    "nombre": "Chimaltenango",
+                    "poblacion_estimada": 128956,
+                    "latitud": 14.6667,
+                    "longitud": -90.8167
+                },
+                {
+                    "nombre": "Villa Canales",
+                    "poblacion_estimada": 122179,
+                    "latitud": 14.4750,
+                    "longitud": -90.5400
+                },
+                {
+                    "nombre": "Escuintla",
+                    "poblacion_estimada": 103165,
+                    "latitud": 14.2833,
+                    "longitud": -90.7833
+                },
+                {
+                    "nombre": "Jalapa",
+                    "poblacion_estimada": 101000,
+                    "latitud": 14.6333,
+                    "longitud": -89.9833
+                }
+            ]
+        },
+        {
+            "pais": "Cuba",
+            "codigo_iso": "CUB",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "La Habana",
+                    "poblacion_estimada": 2130000,
+                    "latitud": 23.1136,
+                    "longitud": -82.3666
+                },
+                {
+                    "nombre": "Santiago de Cuba",
+                    "poblacion_estimada": 447330,
+                    "latitud": 20.0210,
+                    "longitud": -75.8260
+                },
+                {
+                    "nombre": "Camagüey",
+                    "poblacion_estimada": 323088,
+                    "latitud": 21.3833,
+                    "longitud": -77.9167
+                },
+                {
+                    "nombre": "Holguín",
+                    "poblacion_estimada": 294000,
+                    "latitud": 20.8872,
+                    "longitud": -76.2575
+                },
+                {
+                    "nombre": "Santa Clara",
+                    "poblacion_estimada": 240200,
+                    "latitud": 22.4072,
+                    "longitud": -79.9620
+                },
+                {
+                    "nombre": "Guantánamo",
+                    "poblacion_estimada": 216719,
+                    "latitud": 20.1333,
+                    "longitud": -75.2000
+                },
+                {
+                    "nombre": "Cienfuegos",
+                    "poblacion_estimada": 164921,
+                    "latitud": 22.1450,
+                    "longitud": -80.4420
+                },
+                {
+                    "nombre": "Bayamo",
+                    "poblacion_estimada": 158098,
+                    "latitud": 20.3789,
+                    "longitud": -76.6433
+                },
+                {
+                    "nombre": "Las Tunas",
+                    "poblacion_estimada": 153924,
+                    "latitud": 20.9633,
+                    "longitud": -76.9536
+                },
+                {
+                    "nombre": "Pinar del Río",
+                    "poblacion_estimada": 140000,
+                    "latitud": 22.4175,
+                    "longitud": -83.7000
+                }
+            ]
+        }
+    ],
+    "America Central": [
+        {
+            "pais": "Honduras",
+            "codigo_iso": "HND",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Tegucigalpa",
+                    "poblacion_estimada": 1157500,
+                    "latitud": 14.0858,
+                    "longitud": -87.2068
+                },
+                {
+                    "nombre": "San Pedro Sula",
+                    "poblacion_estimada": 873821,
+                    "latitud": 15.5042,
+                    "longitud": -88.0250
+                },
+                {
+                    "nombre": "La Ceiba",
+                    "poblacion_estimada": 200000,
+                    "latitud": 15.7722,
+                    "longitud": -86.7833
+                },
+                {
+                    "nombre": "Choloma",
+                    "poblacion_estimada": 222828,
+                    "latitud": 15.6167,
+                    "longitud": -87.9500
+                },
+                {
+                    "nombre": "El Progreso",
+                    "poblacion_estimada": 188366,
+                    "latitud": 15.3942,
+                    "longitud": -87.8083
+                },
+                {
+                    "nombre": "Choluteca",
+                    "poblacion_estimada": 134000,
+                    "latitud": 13.3000,
+                    "longitud": -87.1667
+                },
+                {
+                    "nombre": "Comayagua",
+                    "poblacion_estimada": 115000,
+                    "latitud": 14.4500,
+                    "longitud": -87.6333
+                },
+                {
+                    "nombre": "Puerto Cortés",
+                    "poblacion_estimada": 100000,
+                    "latitud": 15.8200,
+                    "longitud": -87.9400
+                },
+                {
+                    "nombre": "Danlí",
+                    "poblacion_estimada": 87000,
+                    "latitud": 14.0322,
+                    "longitud": -86.5894
+                },
+                {
+                    "nombre": "Juticalpa",
+                    "poblacion_estimada": 70000,
+                    "latitud": 14.6667,
+                    "longitud": -86.2167
+                }
+            ]
+        },
+        {
+            "pais": "El Salvador",
+            "codigo_iso": "SLV",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "San Salvador",
+                    "poblacion_estimada": 567698,
+                    "latitud": 13.6893,
+                    "longitud": -89.1872
+                },
+                {
+                    "nombre": "Soyapango",
+                    "poblacion_estimada": 286284,
+                    "latitud": 13.7128,
+                    "longitud": -89.1350
+                },
+                {
+                    "nombre": "Santa Ana",
+                    "poblacion_estimada": 264000,
+                    "latitud": 13.9961,
+                    "longitud": -89.5594
+                },
+                {
+                    "nombre": "San Miguel",
+                    "poblacion_estimada": 232000,
+                    "latitud": 13.4833,
+                    "longitud": -88.1833
+                },
+                {
+                    "nombre": "Apopa",
+                    "poblacion_estimada": 198000,
+                    "latitud": 13.7744,
+                    "longitud": -89.1883
+                },
+                {
+                    "nombre": "Mejicanos",
+                    "poblacion_estimada": 160000,
+                    "latitud": 13.7297,
+                    "longitud": -89.2081
+                },
+                {
+                    "nombre": "Santa Tecla",
+                    "poblacion_estimada": 160000,
+                    "latitud": 13.6700,
+                    "longitud": -89.2700
+                },
+                {
+                    "nombre": "Ilopango",
+                    "poblacion_estimada": 145000,
+                    "latitud": 13.6931,
+                    "longitud": -89.0917
+                },
+                {
+                    "nombre": "Delgado",
+                    "poblacion_estimada": 120000,
+                    "latitud": 13.7167,
+                    "longitud": -89.1500
+                },
+                {
+                    "nombre": "Sonsonate",
+                    "poblacion_estimada": 110000,
+                    "latitud": 13.7250,
+                    "longitud": -89.7233
+                }
+            ]
+        },
+        {
+            "pais": "Nicaragua",
+            "codigo_iso": "NIC",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Managua",
+                    "poblacion_estimada": 1055248,
+                    "latitud": 12.1364,
+                    "longitud": -86.2514
+                },
+                {
+                    "nombre": "León",
+                    "poblacion_estimada": 210000,
+                    "latitud": 12.4333,
+                    "longitud": -86.8833
+                },
+                {
+                    "nombre": "Masaya",
+                    "poblacion_estimada": 190000,
+                    "latitud": 11.9790,
+                    "longitud": -86.0967
+                },
+                {
+                    "nombre": "Tipitapa",
+                    "poblacion_estimada": 130000,
+                    "latitud": 12.2133,
+                    "longitud": -86.1158
+                },
+                {
+                    "nombre": "Chinandega",
+                    "poblacion_estimada": 115000,
+                    "latitud": 12.6333,
+                    "longitud": -87.0833
+                },
+                {
+                    "nombre": "Matagalpa",
+                    "poblacion_estimada": 109000,
+                    "latitud": 12.9258,
+                    "longitud": -85.9189
+                },
+                {
+                    "nombre": "Puerto Cabezas",
+                    "poblacion_estimada": 100000,
+                    "latitud": 14.0300,
+                    "longitud": -83.3900
+                },
+                {
+                    "nombre": "Estelí",
+                    "poblacion_estimada": 100000,
+                    "latitud": 13.0911,
+                    "longitud": -86.3578
+                },
+                {
+                    "nombre": "Granada",
+                    "poblacion_estimada": 100000,
+                    "latitud": 11.9286,
+                    "longitud": -85.9561
+                },
+                {
+                    "nombre": "Bluefields",
+                    "poblacion_estimada": 50000,
+                    "latitud": 12.0167,
+                    "longitud": -83.7761
+                }
+            ]
+        },
+        {
+            "pais": "Costa Rica",
+            "codigo_iso": "CRI",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "San José",
+                    "poblacion_estimada": 333285,
+                    "latitud": 9.9281,
+                    "longitud": -84.0907
+                },
+                {
+                    "nombre": "Limón",
+                    "poblacion_estimada": 96608,
+                    "latitud": 9.9936,
+                    "longitud": -83.0766
+                },
+                {
+                    "nombre": "Alajuela",
+                    "poblacion_estimada": 48514,
+                    "latitud": 10.0167,
+                    "longitud": -84.2167
+                },
+                {
+                    "nombre": "Heredia",
+                    "poblacion_estimada": 45000,
+                    "latitud": 9.9981,
+                    "longitud": -84.1160
+                },
+                {
+                    "nombre": "Cartago",
+                    "poblacion_estimada": 25000,
+                    "latitud": 9.8667,
+                    "longitud": -83.9167
+                },
+                {
+                    "nombre": "Puntarenas",
+                    "poblacion_estimada": 35000,
+                    "latitud": 9.9768,
+                    "longitud": -84.8385
+                },
+                {
+                    "nombre": "Liberia",
+                    "poblacion_estimada": 53000,
+                    "latitud": 10.6333,
+                    "longitud": -85.4333
+                },
+                {
+                    "nombre": "Guápiles",
+                    "poblacion_estimada": 45000,
+                    "latitud": 10.2139,
+                    "longitud": -83.7850
+                },
+                {
+                    "nombre": "San Isidro de El General",
+                    "poblacion_estimada": 40000,
+                    "latitud": 9.3789,
+                    "longitud": -83.7167
+                },
+                {
+                    "nombre": "Quesada",
+                    "poblacion_estimada": 35000,
+                    "latitud": 10.3250,
+                    "longitud": -84.4267
+                }
+            ]
+        },
+        {
+            "pais": "Panamá",
+            "codigo_iso": "PAN",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Ciudad de Panamá",
+                    "poblacion_estimada": 880691,
+                    "latitud": 8.9833,
+                    "longitud": -79.5167
+                },
+                {
+                    "nombre": "San Miguelito",
+                    "poblacion_estimada": 375411,
+                    "latitud": 9.0333,
+                    "longitud": -79.4833
+                },
+                {
+                    "nombre": "Tocumen",
+                    "poblacion_estimada": 120000,
+                    "latitud": 9.0722,
+                    "longitud": -79.3833
+                },
+                {
+                    "nombre": "David",
+                    "poblacion_estimada": 89442,
+                    "latitud": 8.4333,
+                    "longitud": -82.4333
+                },
+                {
+                    "nombre": "La Chorrera",
+                    "poblacion_estimada": 76798,
+                    "latitud": 8.8833,
+                    "longitud": -79.7833
+                },
+                {
+                    "nombre": "Santiago de Veraguas",
+                    "poblacion_estimada": 75000,
+                    "latitud": 8.1000,
+                    "longitud": -80.9833
+                },
+                {
+                    "nombre": "Colón",
+                    "poblacion_estimada": 65980,
+                    "latitud": 9.3580,
+                    "longitud": -79.8973
+                },
+                {
+                    "nombre": "Las Cumbres",
+                    "poblacion_estimada": 60000,
+                    "latitud": 9.1167,
+                    "longitud": -79.5500
+                },
+                {
+                    "nombre": "Arraiján",
+                    "poblacion_estimada": 50000,
+                    "latitud": 8.9333,
+                    "longitud": -79.6500
+                },
+                {
+                    "nombre": "Chitré",
+                    "poblacion_estimada": 48000,
+                    "latitud": 7.9667,
+                    "longitud": -80.4167
+                }
+            ]
+        }
+    ],
+    "America del Sur": [
+        {
+            "pais": "Brasil",
+            "codigo_iso": "BRA",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "São Paulo",
+                    "poblacion_estimada": 12396372,
+                    "latitud": -23.5505,
+                    "longitud": -46.6333
+                },
+                {
+                    "nombre": "Río de Janeiro",
+                    "poblacion_estimada": 6772780,
+                    "latitud": -22.9068,
+                    "longitud": -43.1729
+                },
+                {
+                    "nombre": "Brasilia",
+                    "poblacion_estimada": 3094325,
+                    "latitud": -15.7797,
+                    "longitud": -47.9297
+                },
+                {
+                    "nombre": "Salvador",
+                    "poblacion_estimada": 2900319,
+                    "latitud": -12.9714,
+                    "longitud": -38.5014
+                },
+                {
+                    "nombre": "Fortaleza",
+                    "poblacion_estimada": 2703391,
+                    "latitud": -3.7319,
+                    "longitud": -38.5267
+                },
+                {
+                    "nombre": "Belo Horizonte",
+                    "poblacion_estimada": 2530701,
+                    "latitud": -19.9167,
+                    "longitud": -43.9345
+                },
+                {
+                    "nombre": "Manaus",
+                    "poblacion_estimada": 2255903,
+                    "latitud": -3.1190,
+                    "longitud": -60.0217
+                },
+                {
+                    "nombre": "Curitiba",
+                    "poblacion_estimada": 1963726,
+                    "latitud": -25.4284,
+                    "longitud": -49.2733
+                },
+                {
+                    "nombre": "Recife",
+                    "poblacion_estimada": 1661017,
+                    "latitud": -8.0578,
+                    "longitud": -34.8827
+                },
+                {
+                    "nombre": "Goiânia",
+                    "poblacion_estimada": 1536097,
+                    "latitud": -16.6869,
+                    "longitud": -49.2647
+                }
+            ]
+        },
+        {
+            "pais": "Argentina",
+            "codigo_iso": "ARG",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Buenos Aires",
+                    "poblacion_estimada": 3072800,
+                    "latitud": -34.6037,
+                    "longitud": -58.3816
+                },
+                {
+                    "nombre": "Córdoba",
+                    "poblacion_estimada": 1505000,
+                    "latitud": -31.4201,
+                    "longitud": -64.1888
+                },
+                {
+                    "nombre": "Rosario",
+                    "poblacion_estimada": 1335000,
+                    "latitud": -32.9468,
+                    "longitud": -60.6393
+                },
+                {
+                    "nombre": "Mar del Plata",
+                    "poblacion_estimada": 650000,
+                    "latitud": -38.0040,
+                    "longitud": -57.5566
+                },
+                {
+                    "nombre": "San Miguel de Tucumán",
+                    "poblacion_estimada": 600000,
+                    "latitud": -26.8329,
+                    "longitud": -65.2091
+                },
+                {
+                    "nombre": "Salta",
+                    "poblacion_estimada": 535303,
+                    "latitud": -24.7821,
+                    "longitud": -65.4116
+                },
+                {
+                    "nombre": "Santa Fe",
+                    "poblacion_estimada": 524000,
+                    "latitud": -31.6496,
+                    "longitud": -60.7000
+                },
+                {
+                    "nombre": "Corrientes",
+                    "poblacion_estimada": 450000,
+                    "latitud": -27.4687,
+                    "longitud": -58.8340
+                },
+                {
+                    "nombre": "La Plata",
+                    "poblacion_estimada": 780000,
+                    "latitud": -34.9214,
+                    "longitud": -57.9545
+                },
+                {
+                    "nombre": "Resistencia",
+                    "poblacion_estimada": 400000,
+                    "latitud": -27.4518,
+                    "longitud": -58.9868
+                }
+            ]
+        },
+        {
+            "pais": "Colombia",
+            "codigo_iso": "COL",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Bogotá",
+                    "poblacion_estimada": 7743955,
+                    "latitud": 4.7110,
+                    "longitud": -74.0721
+                },
+                {
+                    "nombre": "Medellín",
+                    "poblacion_estimada": 2529403,
+                    "latitud": 6.2442,
+                    "longitud": -75.5812
+                },
+                {
+                    "nombre": "Cali",
+                    "poblacion_estimada": 2471474,
+                    "latitud": 3.4516,
+                    "longitud": -76.5320
+                },
+                {
+                    "nombre": "Barranquilla",
+                    "poblacion_estimada": 1274250,
+                    "latitud": 10.9685,
+                    "longitud": -74.7813
+                },
+                {
+                    "nombre": "Cartagena",
+                    "poblacion_estimada": 1028736,
+                    "latitud": 10.3997,
+                    "longitud": -75.5144
+                },
+                {
+                    "nombre": "Cúcuta",
+                    "poblacion_estimada": 750000,
+                    "latitud": 7.8939,
+                    "longitud": -72.5078
+                },
+                {
+                    "nombre": "Soledad",
+                    "poblacion_estimada": 683500,
+                    "latitud": 10.9167,
+                    "longitud": -74.7667
+                },
+                {
+                    "nombre": "Ibagué",
+                    "poblacion_estimada": 541000,
+                    "latitud": 4.4389,
+                    "longitud": -75.2322
+                },
+                {
+                    "nombre": "Bucaramanga",
+                    "poblacion_estimada": 581130,
+                    "latitud": 7.1254,
+                    "longitud": -73.1198
+                },
+                {
+                    "nombre": "Soacha",
+                    "poblacion_estimada": 530000,
+                    "latitud": 4.5828,
+                    "longitud": -74.2158
+                }
+            ]
+        },
+        {
+            "pais": "Ecuador",
+            "codigo_iso": "ECU",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Guayaquil",
+                    "poblacion_estimada": 2698000,
+                    "latitud": -2.1962,
+                    "longitud": -79.8862
+                },
+                {
+                    "nombre": "Quito",
+                    "poblacion_estimada": 1850000,
+                    "latitud": -0.22985,
+                    "longitud": -78.52495
+                },
+                {
+                    "nombre": "Cuenca",
+                    "poblacion_estimada": 600000,
+                    "latitud": -2.8953,
+                    "longitud": -78.9963
+                },
+                {
+                    "nombre": "Manta",
+                    "poblacion_estimada": 270000,
+                    "latitud": -0.94937,
+                    "longitud": -80.73137
+                },
+                {
+                    "nombre": "Salinas",
+                    "poblacion_estimada": 250000,
+                    "latitud": -2.223363,
+                    "longitud": -80.958462
+                },
+                {
+                    "nombre": "Puerto Lopez",
+                    "poblacion_estimada": 230000,
+                    "latitud": -1.559010,
+                    "longitud": -80.810575
+                },
+                {
+                    "nombre": "Vinces",
+                    "poblacion_estimada": 75000,
+                    "latitud": -1.55611,
+                    "longitud": -79.75191
+                },
+                {
+                    "nombre": "Samborondon",
+                    "poblacion_estimada": 70000,
+                    "latitud": -1.96276,
+                    "longitud": -79.72402
+                },
+                {
+                    "nombre": "Latacunga",
+                    "poblacion_estimada": 63000,
+                    "latitud": -0.934031,
+                    "longitud": -78.614576
+                },
+                {
+                    "nombre": "Puyo",
+                    "poblacion_estimada": 35000,
+                    "latitud": -1.48548,
+                    "longitud": -77.99697
+                }
+            ]
+        },
+        {
+            "pais": "Chile",
+            "codigo_iso": "CHL",
+            "ciudades_mas_pobladas": [
+                {
+                    "nombre": "Santiago",
+                    "poblacion_estimada": 6257000,
+                    "latitud": -33.4489,
+                    "longitud": -70.6693
+                },
+                {
+                    "nombre": "Puente Alto",
+                    "poblacion_estimada": 645934,
+                    "latitud": -33.6167,
+                    "longitud": -70.5833
+                },
+                {
+                    "nombre": "Viña del Mar",
+                    "poblacion_estimada": 334248,
+                    "latitud": -33.0238,
+                    "longitud": -71.5518
+                },
+                {
+                    "nombre": "Antofagasta",
+                    "poblacion_estimada": 361876,
+                    "latitud": -23.6475,
+                    "longitud": -70.3967
+                },
+                {
+                    "nombre": "Valparaíso",
+                    "poblacion_estimada": 296655,
+                    "latitud": -33.0472,
+                    "longitud": -71.6127
+                },
+                {
+                    "nombre": "San Bernardo",
+                    "poblacion_estimada": 278550,
+                    "latitud": -33.5930,
+                    "longitud": -70.6970
+                },
+                {
+                    "nombre": "Temuco",
+                    "poblacion_estimada": 278513,
+                    "latitud": -38.7359,
+                    "longitud": -72.6015
+                },
+                {
+                    "nombre": "Rancagua",
+                    "poblacion_estimada": 254835,
+                    "latitud": -34.1667,
+                    "longitud": -70.7333
+                },
+                {
+                    "nombre": "Concepción",
+                    "poblacion_estimada": 240000,
+                    "latitud": -36.8270,
+                    "longitud": -73.0503
+                },
+                {
+                    "nombre": "Puerto Montt",
+                    "poblacion_estimada": 220000,
+                    "latitud": -41.4729,
+                    "longitud": -72.9304
+                }
+            ]
+        }
+    ],
+    "Europa": [
+    {
+      "pais": "España",
+      "codigo_iso": "ESP",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Madrid",
+          "poblacion_estimada": 3305000,
+          "latitud": 40.4168,
+          "longitud": -3.7038
+        },
+        {
+          "nombre": "Barcelona",
+          "poblacion_estimada": 1660000,
+          "latitud": 41.3851,
+          "longitud": 2.1734
+        },
+        {
+          "nombre": "Valencia",
+          "poblacion_estimada": 801000,
+          "latitud": 39.4699,
+          "longitud": -0.3774
+        },
+        {
+          "nombre": "Sevilla",
+          "poblacion_estimada": 691000,
+          "latitud": 37.3886,
+          "longitud": -5.9953
+        },
+        {
+          "nombre": "Zaragoza",
+          "poblacion_estimada": 681000,
+          "latitud": 41.6488,
+          "longitud": -0.8891
+        },
+        {
+          "nombre": "Málaga",
+          "poblacion_estimada": 578000,
+          "latitud": 36.7213,
+          "longitud": -4.4200
+        },
+        {
+          "nombre": "Murcia",
+          "poblacion_estimada": 460000,
+          "latitud": 37.9890,
+          "longitud": -1.1300
+        },
+        {
+          "nombre": "Palma de Mallorca",
+          "poblacion_estimada": 423000,
+          "latitud": 39.5694,
+          "longitud": 2.6502
+        },
+        {
+          "nombre": "Las Palmas de Gran Canaria",
+          "poblacion_estimada": 381000,
+          "latitud": 28.1250,
+          "longitud": -15.4300
+        },
+        {
+          "nombre": "Bilbao",
+          "poblacion_estimada": 346000,
+          "latitud": 43.2630,
+          "longitud": -2.9348
+        }
+      ]
+    },
+    {
+      "pais": "Alemania",
+      "codigo_iso": "DEU",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Berlín",
+          "poblacion_estimada": 3664088,
+          "latitud": 52.5200,
+          "longitud": 13.4050
+        },
+        {
+          "nombre": "Hamburgo",
+          "poblacion_estimada": 1852478,
+          "latitud": 53.5511,
+          "longitud": 9.9937
+        },
+        {
+          "nombre": "Múnich",
+          "poblacion_estimada": 1471508,
+          "latitud": 48.1351,
+          "longitud": 11.5820
+        },
+        {
+          "nombre": "Colonia",
+          "poblacion_estimada": 1085664,
+          "latitud": 50.9375,
+          "longitud": 6.9603
+        },
+        {
+          "nombre": "Fráncfort del Meno",
+          "poblacion_estimada": 764104,
+          "latitud": 50.1109,
+          "longitud": 8.6821
+        },
+        {
+          "nombre": "Stuttgart",
+          "poblacion_estimada": 634830,
+          "latitud": 48.7758,
+          "longitud": 9.1829
+        },
+        {
+          "nombre": "Düsseldorf",
+          "poblacion_estimada": 619294,
+          "latitud": 51.2277,
+          "longitud": 6.7735
+        },
+        {
+          "nombre": "Leipzig",
+          "poblacion_estimada": 597491,
+          "latitud": 51.3397,
+          "longitud": 12.3731
+        },
+        {
+          "nombre": "Dortmund",
+          "poblacion_estimada": 587696,
+          "latitud": 51.5136,
+          "longitud": 7.4653
+        },
+        {
+          "nombre": "Essen",
+          "poblacion_estimada": 582760,
+          "latitud": 51.4556,
+          "longitud": 7.0116
+        }
+      ]
+    },
+    {
+      "pais": "Reino Unido",
+      "codigo_iso": "GBR",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Londres",
+          "poblacion_estimada": 8982000,
+          "latitud": 51.5074,
+          "longitud": 0.1278
+        },
+        {
+          "nombre": "Birmingham",
+          "poblacion_estimada": 1141315,
+          "latitud": 52.4862,
+          "longitud": -1.8904
+        },
+        {
+          "nombre": "Glasgow",
+          "poblacion_estimada": 635640,
+          "latitud": 55.8642,
+          "longitud": -4.2518
+        },
+        {
+          "nombre": "Mánchester",
+          "poblacion_estimada": 552000,
+          "latitud": 53.4808,
+          "longitud": -2.2426
+        },
+        {
+          "nombre": "Liverpool",
+          "poblacion_estimada": 500438,
+          "latitud": 53.4084,
+          "longitud": -2.9916
+        },
+        {
+          "nombre": "Bristol",
+          "poblacion_estimada": 467610,
+          "latitud": 51.4545,
+          "longitud": -2.5879
+        },
+        {
+          "nombre": "Sheffield",
+          "poblacion_estimada": 556511,
+          "latitud": 53.3829,
+          "longitud": -1.4659
+        },
+        {
+          "nombre": "Leeds",
+          "poblacion_estimada": 793139,
+          "latitud": 53.8008,
+          "longitud": -1.5491
+        },
+        {
+          "nombre": "Edimburgo",
+          "poblacion_estimada": 524930,
+          "latitud": 55.9533,
+          "longitud": -3.1883
+        },
+        {
+          "nombre": "Leicester",
+          "poblacion_estimada": 368300,
+          "latitud": 52.6369,
+          "longitud": -1.1398
+        }
+      ]
+    },
+    {
+      "pais": "Francia",
+      "codigo_iso": "FRA",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "París",
+          "poblacion_estimada": 2141000,
+          "latitud": 48.8566,
+          "longitud": 2.3522
+        },
+        {
+          "nombre": "Marsella",
+          "poblacion_estimada": 870321,
+          "latitud": 43.2965,
+          "longitud": 5.3698
+        },
+        {
+          "nombre": "Lyon",
+          "poblacion_estimada": 518635,
+          "latitud": 45.7640,
+          "longitud": 4.8357
+        },
+        {
+          "nombre": "Toulouse",
+          "poblacion_estimada": 479553,
+          "latitud": 43.6047,
+          "longitud": 1.4442
+        },
+        {
+          "nombre": "Niza",
+          "poblacion_estimada": 340010,
+          "latitud": 43.7102,
+          "longitud": 7.2620
+        },
+        {
+          "nombre": "Nantes",
+          "poblacion_estimada": 314138,
+          "latitud": 47.2184,
+          "longitud": -1.5536
+        },
+        {
+          "nombre": "Estrasburgo",
+          "poblacion_estimada": 284378,
+          "latitud": 48.5839,
+          "longitud": 7.7455
+        },
+        {
+          "nombre": "Montpellier",
+          "poblacion_estimada": 277696,
+          "latitud": 43.6108,
+          "longitud": 3.8767
+        },
+        {
+          "nombre": "Burdeos",
+          "poblacion_estimada": 257068,
+          "latitud": 44.8378,
+          "longitud": -0.5792
+        },
+        {
+          "nombre": "Lille",
+          "poblacion_estimada": 233098,
+          "latitud": 50.6292,
+          "longitud": 3.0573
+        }
+      ]
+    },
+    {
+      "pais": "Italia",
+      "codigo_iso": "ITA",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Roma",
+          "poblacion_estimada": 2860000,
+          "latitud": 41.9028,
+          "longitud": 12.4964
+        },
+        {
+          "nombre": "Milán",
+          "poblacion_estimada": 1404000,
+          "latitud": 45.4642,
+          "longitud": 9.1900
+        },
+        {
+          "nombre": "Nápoles",
+          "poblacion_estimada": 921000,
+          "latitud": 40.8518,
+          "longitud": 14.2681
+        },
+        {
+          "nombre": "Turín",
+          "poblacion_estimada": 870000,
+          "latitud": 45.0703,
+          "longitud": 7.6869
+        },
+        {
+          "nombre": "Palermo",
+          "poblacion_estimada": 673000,
+          "latitud": 38.1157,
+          "longitud": 13.3615
+        },
+        {
+          "nombre": "Génova",
+          "poblacion_estimada": 565000,
+          "latitud": 44.4053,
+          "longitud": 8.9463
+        },
+        {
+          "nombre": "Bologna",
+          "poblacion_estimada": 390000,
+          "latitud": 44.4942,
+          "longitud": 11.3426
+        },
+        {
+          "nombre": "Florencia",
+          "poblacion_estimada": 361625,
+          "latitud": 43.7696,
+          "longitud": 11.2558
+        },
+        {
+          "nombre": "Bari",
+          "poblacion_estimada": 319000,
+          "latitud": 41.1171,
+          "longitud": 16.8719
+        },
+        {
+          "nombre": "Catania",
+          "poblacion_estimada": 311000,
+          "latitud": 37.5079,
+          "longitud": 15.0831
+        }
+      ]
+    }
+  ],
+  "Asia": [
+    {
+      "pais": "China",
+      "codigo_iso": "CHN",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Shanghái",
+          "poblacion_estimada": 28516904,
+          "latitud": 31.2304,
+          "longitud": 121.4737
+        },
+        {
+          "nombre": "Pekín",
+          "poblacion_estimada": 20462610,
+          "latitud": 39.9042,
+          "longitud": 116.4074
+        },
+        {
+          "nombre": "Chongqing",
+          "poblacion_estimada": 16382378,
+          "latitud": 29.5630,
+          "longitud": 106.5516
+        },
+        {
+          "nombre": "Cantón (Guangzhou)",
+          "poblacion_estimada": 15305900,
+          "latitud": 23.1291,
+          "longitud": 113.2644
+        },
+        {
+          "nombre": "Shenzhen",
+          "poblacion_estimada": 13310000,
+          "latitud": 22.5431,
+          "longitud": 114.0579
+        },
+        {
+          "nombre": "Tianjin",
+          "poblacion_estimada": 13866009,
+          "latitud": 39.3434,
+          "longitud": 117.3616
+        },
+        {
+          "nombre": "Chengdu",
+          "poblacion_estimada": 12217000,
+          "latitud": 30.6599,
+          "longitud": 104.0664
+        },
+        {
+          "nombre": "Wuhan",
+          "poblacion_estimada": 11081000,
+          "latitud": 30.5928,
+          "longitud": 114.3055
+        },
+        {
+          "nombre": "Hangzhou",
+          "poblacion_estimada": 10360000,
+          "latitud": 30.2741,
+          "longitud": 120.1551
+        },
+        {
+          "nombre": "Nanjing",
+          "poblacion_estimada": 9310000,
+          "latitud": 32.0603,
+          "longitud": 118.7965
+        }
+      ]
+    },
+    {
+      "pais": "India",
+      "codigo_iso": "IND",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Delhi",
+          "poblacion_estimada": 32000000,
+          "latitud": 28.7041,
+          "longitud": 77.1025
+        },
+        {
+          "nombre": "Bombay (Mumbai)",
+          "poblacion_estimada": 20400000,
+          "latitud": 19.0760,
+          "longitud": 72.8777
+        },
+        {
+          "nombre": "Calcuta (Kolkata)",
+          "poblacion_estimada": 15600000,
+          "latitud": 22.5726,
+          "longitud": 88.3639
+        },
+        {
+          "nombre": "Bangalore",
+          "poblacion_estimada": 13400000,
+          "latitud": 12.9716,
+          "longitud": 77.5946
+        },
+        {
+          "nombre": "Chennai",
+          "poblacion_estimada": 11500000,
+          "latitud": 13.0827,
+          "longitud": 80.2707
+        },
+        {
+          "nombre": "Hyderabad",
+          "poblacion_estimada": 10500000,
+          "latitud": 17.3850,
+          "longitud": 78.4867
+        },
+        {
+          "nombre": "Ahmedabad",
+          "poblacion_estimada": 8600000,
+          "latitud": 23.0225,
+          "longitud": 72.5714
+        },
+        {
+          "nombre": "Pune",
+          "poblacion_estimada": 7600000,
+          "latitud": 18.5204,
+          "longitud": 73.8567
+        },
+        {
+          "nombre": "Surat",
+          "poblacion_estimada": 6500000,
+          "latitud": 21.1702,
+          "longitud": 72.8311
+        },
+        {
+          "nombre": "Jaipur",
+          "poblacion_estimada": 4000000,
+          "latitud": 26.9124,
+          "longitud": 75.7873
+        }
+      ]
+    },
+    {
+      "pais": "Japón",
+      "codigo_iso": "JPN",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Tokio",
+          "poblacion_estimada": 13960000,
+          "latitud": 35.6895,
+          "longitud": 139.6917
+        },
+        {
+          "nombre": "Yokohama",
+          "poblacion_estimada": 3770000,
+          "latitud": 35.4437,
+          "longitud": 139.6380
+        },
+        {
+          "nombre": "Osaka",
+          "poblacion_estimada": 2750000,
+          "latitud": 34.6937,
+          "longitud": 135.5023
+        },
+        {
+          "nombre": "Nagoya",
+          "poblacion_estimada": 2330000,
+          "latitud": 35.1815,
+          "longitud": 136.9064
+        },
+        {
+          "nombre": "Sapporo",
+          "poblacion_estimada": 1970000,
+          "latitud": 43.0621,
+          "longitud": 141.3544
+        },
+        {
+          "nombre": "Fukuoka",
+          "poblacion_estimada": 1630000,
+          "latitud": 33.5904,
+          "longitud": 130.4017
+        },
+        {
+          "nombre": "Kōbe",
+          "poblacion_estimada": 1530000,
+          "latitud": 34.6908,
+          "longitud": 135.1956
+        },
+        {
+          "nombre": "Kawasaki",
+          "poblacion_estimada": 1540000,
+          "latitud": 35.5186,
+          "longitud": 139.7150
+        },
+        {
+          "nombre": "Kioto",
+          "poblacion_estimada": 1470000,
+          "latitud": 35.0116,
+          "longitud": 135.7681
+        },
+        {
+          "nombre": "Saitama",
+          "poblacion_estimada": 1330000,
+          "latitud": 35.8617,
+          "longitud": 139.6450
+        }
+      ]
+    },
+    {
+      "pais": "Indonesia",
+      "codigo_iso": "IDN",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Yakarta",
+          "poblacion_estimada": 10560000,
+          "latitud": -6.2088,
+          "longitud": 106.8456
+        },
+        {
+          "nombre": "Surabaya",
+          "poblacion_estimada": 3009000,
+          "latitud": -7.2575,
+          "longitud": 112.7521
+        },
+        {
+          "nombre": "Bandung",
+          "poblacion_estimada": 2500000,
+          "latitud": -6.9175,
+          "longitud": 107.6191
+        },
+        {
+          "nombre": "Medan",
+          "poblacion_estimada": 2400000,
+          "latitud": 3.5951,
+          "longitud": 98.6785
+        },
+        {
+          "nombre": "Semarang",
+          "poblacion_estimada": 1680000,
+          "latitud": -6.9859,
+          "longitud": 110.4075
+        },
+        {
+          "nombre": "Makassar",
+          "poblacion_estimada": 1600000,
+          "latitud": -5.1477,
+          "longitud": 119.4327
+        },
+        {
+          "nombre": "Palembang",
+          "poblacion_estimada": 1600000,
+          "latitud": -2.9764,
+          "longitud": 104.7399
+        },
+        {
+          "nombre": "Denpasar",
+          "poblacion_estimada": 900000,
+          "latitud": -8.6705,
+          "longitud": 115.2126
+        },
+        {
+          "nombre": "Yogyakarta",
+          "poblacion_estimada": 430000,
+          "latitud": -7.7956,
+          "longitud": 110.3695
+        },
+        {
+          "nombre": "Balikpapan",
+          "poblacion_estimada": 650000,
+          "latitud": -1.2654,
+          "longitud": 116.8315
+        }
+      ]
+    },
+    {
+      "pais": "Rusia (parte Asiática)",
+      "codigo_iso": "RUS",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Moscú",
+          "poblacion_estimada": 13149000,
+          "latitud": 55.7558,
+          "longitud": 37.6173
+        },
+        {
+          "nombre": "San Petersburgo",
+          "poblacion_estimada": 5600000,
+          "latitud": 59.9343,
+          "longitud": 30.3351
+        },
+        {
+          "nombre": "Novosibirsk",
+          "poblacion_estimada": 1625600,
+          "latitud": 55.0084,
+          "longitud": 82.9357
+        },
+        {
+          "nombre": "Ekaterimburgo",
+          "poblacion_estimada": 1547800,
+          "latitud": 56.8389,
+          "longitud": 60.6057
+        },
+        {
+          "nombre": "Kazán",
+          "poblacion_estimada": 1308660,
+          "latitud": 55.7887,
+          "longitud": 49.1221
+        },
+        {
+          "nombre": "Nizhni Nóvgorod",
+          "poblacion_estimada": 1251950,
+          "latitud": 56.3240,
+          "longitud": 44.0054
+        },
+        {
+          "nombre": "Chelyabinsk",
+          "poblacion_estimada": 1202370,
+          "latitud": 55.1540,
+          "longitud": 61.4291
+        },
+        {
+          "nombre": "Samara",
+          "poblacion_estimada": 1172800,
+          "latitud": 53.2001,
+          "longitud": 50.1500
+        },
+        {
+          "nombre": "Omsk",
+          "poblacion_estimada": 1154500,
+          "latitud": 54.9860,
+          "longitud": 73.3687
+        },
+        {
+          "nombre": "Rostov del Don",
+          "poblacion_estimada": 1137000,
+          "latitud": 47.2357,
+          "longitud": 39.7015
+        }
+      ]
+    }
+  ],
+  "África": [
+    {
+      "pais": "Nigeria",
+      "codigo_iso": "NGA",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Lagos",
+          "poblacion_estimada": 16637000,
+          "latitud": 6.5244,
+          "longitud": 3.3792
+        },
+        {
+          "nombre": "Ibadan",
+          "poblacion_estimada": 3649000,
+          "latitud": 7.3986,
+          "longitud": 3.9170
+        },
+        {
+          "nombre": "Abuya",
+          "poblacion_estimada": 3500000,
+          "latitud": 9.0765,
+          "longitud": 7.3986
+        },
+        {
+          "nombre": "Kano",
+          "poblacion_estimada": 4349900,
+          "latitud": 12.0000,
+          "longitud": 8.5167
+        },
+        {
+          "nombre": "Port Harcourt",
+          "poblacion_estimada": 3171000,
+          "latitud": 4.8156,
+          "longitud": 7.0498
+        },
+        {
+          "nombre": "Benin City",
+          "poblacion_estimada": 1780000,
+          "latitud": 6.3333,
+          "longitud": 5.6167
+        },
+        {
+          "nombre": "Kaduna",
+          "poblacion_estimada": 1652000,
+          "latitud": 10.5167,
+          "longitud": 7.4500
+        },
+        {
+          "nombre": "Abeokuta",
+          "poblacion_estimada": 765000,
+          "latitud": 7.1500,
+          "longitud": 3.3500
+        },
+        {
+          "nombre": "Ogbomosho",
+          "poblacion_estimada": 485000,
+          "latitud": 8.1333,
+          "longitud": 4.2500
+        },
+        {
+          "nombre": "Zaria",
+          "poblacion_estimada": 406900,
+          "latitud": 11.0833,
+          "longitud": 7.7000
+        }
+      ]
+    },
+    {
+      "pais": "Egipto",
+      "codigo_iso": "EGY",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "El Cairo",
+          "poblacion_estimada": 10000000,
+          "latitud": 30.0333,
+          "longitud": 31.2333
+        },
+        {
+          "nombre": "Alejandría",
+          "poblacion_estimada": 5400000,
+          "latitud": 31.2000,
+          "longitud": 29.9167
+        },
+        {
+          "nombre": "Guiza",
+          "poblacion_estimada": 4350000,
+          "latitud": 30.0131,
+          "longitud": 31.2104
+        },
+        {
+          "nombre": "Shubra El-Kheima",
+          "poblacion_estimada": 1160000,
+          "latitud": 30.1250,
+          "longitud": 31.2400
+        },
+        {
+          "nombre": "Port Said",
+          "poblacion_estimada": 780000,
+          "latitud": 31.2650,
+          "longitud": 32.2850
+        },
+        {
+          "nombre": "Suez",
+          "poblacion_estimada": 740000,
+          "latitud": 29.9737,
+          "longitud": 32.5263
+        },
+        {
+          "nombre": "El-Mansura",
+          "poblacion_estimada": 570000,
+          "latitud": 31.0500,
+          "longitud": 31.3833
+        },
+        {
+          "nombre": "Tanta",
+          "poblacion_estimada": 500000,
+          "latitud": 30.7833,
+          "longitud": 31.0000
+        },
+        {
+          "nombre": "Asiut",
+          "poblacion_estimada": 450000,
+          "latitud": 27.1833,
+          "longitud": 31.1833
+        },
+        {
+          "nombre": "Faiyum",
+          "poblacion_estimada": 420000,
+          "latitud": 29.3084,
+          "longitud": 30.8407
+        }
+      ]
+    },
+    {
+      "pais": "Sudáfrica",
+      "codigo_iso": "ZAF",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Johannesburgo",
+          "poblacion_estimada": 5635000,
+          "latitud": -26.2041,
+          "longitud": 28.0473
+        },
+        {
+          "nombre": "Ciudad del Cabo",
+          "poblacion_estimada": 4772000,
+          "latitud": -33.9249,
+          "longitud": 18.4241
+        },
+        {
+          "nombre": "Durban",
+          "poblacion_estimada": 3660000,
+          "latitud": -29.8587,
+          "longitud": 31.0218
+        },
+        {
+          "nombre": "Pretoria",
+          "poblacion_estimada": 2400000,
+          "latitud": -25.7479,
+          "longitud": 28.2293
+        },
+        {
+          "nombre": "Port Elizabeth",
+          "poblacion_estimada": 1150000,
+          "latitud": -33.9610,
+          "longitud": 25.6022
+        },
+        {
+          "nombre": "Bloemfontein",
+          "poblacion_estimada": 750000,
+          "latitud": -29.1170,
+          "longitud": 26.2160
+        },
+        {
+          "nombre": "Benoni",
+          "poblacion_estimada": 670000,
+          "latitud": -26.1770,
+          "longitud": 28.3220
+        },
+        {
+          "nombre": "Soweto",
+          "poblacion_estimada": 1270000,
+          "latitud": -26.2730,
+          "longitud": 27.8540
+        },
+        {
+          "nombre": "East London",
+          "poblacion_estimada": 478000,
+          "latitud": -33.0290,
+          "longitud": 27.8570
+        },
+        {
+          "nombre": "Pietermaritzburg",
+          "poblacion_estimada": 475000,
+          "latitud": -29.6000,
+          "longitud": 30.3700
+        }
+      ]
+    },
+    {
+      "pais": "Kenia",
+      "codigo_iso": "KEN",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Nairobi",
+          "poblacion_estimada": 4735000,
+          "latitud": -1.2921,
+          "longitud": 36.8219
+        },
+        {
+          "nombre": "Mombasa",
+          "poblacion_estimada": 1208000,
+          "latitud": -4.0547,
+          "longitud": 39.6636
+        },
+        {
+          "nombre": "Nakuru",
+          "poblacion_estimada": 570000,
+          "latitud": -0.3031,
+          "longitud": 36.0800
+        },
+        {
+          "nombre": "Ruiru",
+          "poblacion_estimada": 490000,
+          "latitud": -1.1833,
+          "longitud": 36.9500
+        },
+        {
+          "nombre": "Eldoret",
+          "poblacion_estimada": 475000,
+          "latitud": 0.5200,
+          "longitud": 35.2600
+        },
+        {
+          "nombre": "Kisumu",
+          "poblacion_estimada": 400000,
+          "latitud": -0.0917,
+          "longitud": 34.7670
+        },
+        {
+          "nombre": "Thika",
+          "poblacion_estimada": 350000,
+          "latitud": -1.0400,
+          "longitud": 37.0800
+        },
+        {
+          "nombre": "Malindi",
+          "poblacion_estimada": 200000,
+          "latitud": -3.2198,
+          "longitud": 40.1068
+        },
+        {
+          "nombre": "Kitale",
+          "poblacion_estimada": 165000,
+          "latitud": 1.0167,
+          "longitud": 35.0000
+        },
+        {
+          "nombre": "Garissa",
+          "poblacion_estimada": 120000,
+          "latitud": -0.4566,
+          "longitud": 39.6841
+        }
+      ]
+    },
+    {
+      "pais": "Etiopía",
+      "codigo_iso": "ETH",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Adís Abeba",
+          "poblacion_estimada": 5000000,
+          "latitud": 9.0192,
+          "longitud": 38.7525
+        },
+        {
+          "nombre": "Dire Dawa",
+          "poblacion_estimada": 400000,
+          "latitud": 9.5931,
+          "longitud": 41.8661
+        },
+        {
+          "nombre": "Mekele",
+          "poblacion_estimada": 310000,
+          "latitud": 13.4967,
+          "longitud": 39.4758
+        },
+        {
+          "nombre": "Gondar",
+          "poblacion_estimada": 260000,
+          "latitud": 12.6000,
+          "longitud": 37.4667
+        },
+        {
+          "nombre": "Adama",
+          "poblacion_estimada": 250000,
+          "latitud": 8.5417,
+          "longitud": 39.2681
+        },
+        {
+          "nombre": "Awasa",
+          "poblacion_estimada": 200000,
+          "latitud": 7.0500,
+          "longitud": 38.4667
+        },
+        {
+          "nombre": "Bahir Dar",
+          "poblacion_estimada": 190000,
+          "latitud": 11.5950,
+          "longitud": 37.3917
+        },
+        {
+          "nombre": "Harar",
+          "poblacion_estimada": 160000,
+          "latitud": 9.3100,
+          "longitud": 42.1200
+        },
+        {
+          "nombre": "Debre Zeyit",
+          "poblacion_estimada": 130000,
+          "latitud": 8.7400,
+          "longitud": 39.0000
+        },
+        {
+          "nombre": "Jimma",
+          "poblacion_estimada": 120000,
+          "latitud": 7.6719,
+          "longitud": 36.8328
+        }
+      ]
+    }
+  ],
+  "Oceanía": [
+    {
+      "pais": "Australia",
+      "codigo_iso": "AUS",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Sídney",
+          "poblacion_estimada": 5367200,
+          "latitud": -33.8688,
+          "longitud": 151.2093
+        },
+        {
+          "nombre": "Melbourne",
+          "poblacion_estimada": 5096700,
+          "latitud": -37.8136,
+          "longitud": 144.9631
+        },
+        {
+          "nombre": "Brisbane",
+          "poblacion_estimada": 2514100,
+          "latitud": -27.4698,
+          "longitud": 153.0251
+        },
+        {
+          "nombre": "Perth",
+          "poblacion_estimada": 2085900,
+          "latitud": -31.9505,
+          "longitud": 115.8605
+        },
+        {
+          "nombre": "Adelaida",
+          "poblacion_estimada": 1359400,
+          "latitud": -34.9285,
+          "longitud": 138.6007
+        },
+        {
+          "nombre": "Gold Coast",
+          "poblacion_estimada": 709600,
+          "latitud": -28.0167,
+          "longitud": 153.4000
+        },
+        {
+          "nombre": "Newcastle",
+          "poblacion_estimada": 490000,
+          "latitud": -32.9267,
+          "longitud": 151.7761
+        },
+        {
+          "nombre": "Canberra",
+          "poblacion_estimada": 467100,
+          "latitud": -35.2809,
+          "longitud": 149.1300
+        },
+        {
+          "nombre": "Sunshine Coast",
+          "poblacion_estimada": 350000,
+          "latitud": -26.6500,
+          "longitud": 153.0667
+        },
+        {
+          "nombre": "Wollongong",
+          "poblacion_estimada": 302000,
+          "latitud": -34.4278,
+          "longitud": 150.8931
+        }
+      ]
+    },
+    {
+      "pais": "Nueva Zelanda",
+      "codigo_iso": "NZL",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Auckland",
+          "poblacion_estimada": 1695000,
+          "latitud": -36.8485,
+          "longitud": 174.7633
+        },
+        {
+          "nombre": "Wellington",
+          "poblacion_estimada": 440700,
+          "latitud": -41.2865,
+          "longitud": 174.7762
+        },
+        {
+          "nombre": "Christchurch",
+          "poblacion_estimada": 394700,
+          "latitud": -43.5321,
+          "longitud": 172.6362
+        },
+        {
+          "nombre": "Hamilton",
+          "poblacion_estimada": 179900,
+          "latitud": -37.7870,
+          "longitud": 175.2793
+        },
+        {
+          "nombre": "Tauranga",
+          "poblacion_estimada": 155200,
+          "latitud": -37.6875,
+          "longitud": 176.1664
+        },
+        {
+          "nombre": "Dunedin",
+          "poblacion_estimada": 134100,
+          "latitud": -45.8788,
+          "longitud": 170.5028
+        },
+        {
+          "nombre": "Lower Hutt",
+          "poblacion_estimada": 111500,
+          "latitud": -41.2167,
+          "longitud": 174.9167
+        },
+        {
+          "nombre": "Palmerston North",
+          "poblacion_estimada": 88000,
+          "latitud": -40.3547,
+          "longitud": 175.6074
+        },
+        {
+          "nombre": "Napier-Hastings",
+          "poblacion_estimada": 139000,
+          "latitud": -39.4920,
+          "longitud": 176.9120
+        },
+        {
+          "nombre": "Nelson",
+          "poblacion_estimada": 51000,
+          "latitud": -41.2705,
+          "longitud": 173.2829
+        }
+      ]
+    },
+    {
+      "pais": "Papúa Nueva Guinea",
+      "codigo_iso": "PNG",
+      "ciudades_mas_pobladas": [
+        {
+          "nombre": "Port Moresby",
+          "poblacion_estimada": 364125,
+          "latitud": -9.4438,
+          "longitud": 147.1802
+        },
+        {
+          "nombre": "Lae",
+          "poblacion_estimada": 148934,
+          "latitud": -6.7320,
+          "longitud": 147.0001
+        },
+        {
+          "nombre": "Arawa",
+          "poblacion_estimada": 45000,
+          "latitud": -6.2152,
+          "longitud": 155.5615
+        },
+        {
+          "nombre": "Mount Hagen",
+          "poblacion_estimada": 46250,
+          "latitud": -5.8333,
+          "longitud": 144.0167
+        },
+        {
+          "nombre": "Madang",
+          "poblacion_estimada": 35971,
+          "latitud": -5.2238,
+          "longitud": 145.7968
+        },
+        {
+          "nombre": "Wewak",
+          "poblacion_estimada": 25143,
+          "latitud": -3.5833,
+          "longitud": 143.6667
+        },
+        {
+          "nombre": "Goroka",
+          "poblacion_estimada": 21500,
+          "latitud": -6.0833,
+          "longitud": 145.3833
+        },
+        {
+          "nombre": "Kokopo",
+          "poblacion_estimada": 26200,
+          "latitud": -4.3542,
+          "longitud": 152.2608
+        },
+        {
+          "nombre": "Daru",
+          "poblacion_estimada": 20524,
+          "latitud": -9.0833,
+          "longitud": 143.2000
+        },
+        {
+          "nombre": "Kimbe",
+          "poblacion_estimada": 21000,
+          "latitud": -5.5539,
+          "longitud": 150.1469
+        }
+      ]
+    }
+  ]
+}
